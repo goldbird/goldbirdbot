@@ -1,0 +1,5 @@
+admin : OarmanO
+
+CREATE BY SEED TEAM
+
+----GLODENBOT (ANTI SPAM)----
